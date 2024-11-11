@@ -1,0 +1,16 @@
+C:\Users\ToT\OneDrive\Desktop\data call senter forms\data call senter forms\bin\Debug\net8.0-windows\data call senter forms.exe
+C:\Users\ToT\OneDrive\Desktop\data call senter forms\data call senter forms\bin\Debug\net8.0-windows\data call senter forms.deps.json
+C:\Users\ToT\OneDrive\Desktop\data call senter forms\data call senter forms\bin\Debug\net8.0-windows\data call senter forms.runtimeconfig.json
+C:\Users\ToT\OneDrive\Desktop\data call senter forms\data call senter forms\bin\Debug\net8.0-windows\data call senter forms.dll
+C:\Users\ToT\OneDrive\Desktop\data call senter forms\data call senter forms\bin\Debug\net8.0-windows\data call senter forms.pdb
+C:\Users\ToT\OneDrive\Desktop\data call senter forms\data call senter forms\obj\Debug\net8.0-windows\data_call_senter_forms.Form1.resources
+C:\Users\ToT\OneDrive\Desktop\data call senter forms\data call senter forms\obj\Debug\net8.0-windows\data call senter forms.csproj.GenerateResource.cache
+C:\Users\ToT\OneDrive\Desktop\data call senter forms\data call senter forms\obj\Debug\net8.0-windows\data call senter forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ToT\OneDrive\Desktop\data call senter forms\data call senter forms\obj\Debug\net8.0-windows\data call senter forms.AssemblyInfoInputs.cache
+C:\Users\ToT\OneDrive\Desktop\data call senter forms\data call senter forms\obj\Debug\net8.0-windows\data call senter forms.AssemblyInfo.cs
+C:\Users\ToT\OneDrive\Desktop\data call senter forms\data call senter forms\obj\Debug\net8.0-windows\data call senter forms.csproj.CoreCompileInputs.cache
+C:\Users\ToT\OneDrive\Desktop\data call senter forms\data call senter forms\obj\Debug\net8.0-windows\data call senter forms.dll
+C:\Users\ToT\OneDrive\Desktop\data call senter forms\data call senter forms\obj\Debug\net8.0-windows\refint\data call senter forms.dll
+C:\Users\ToT\OneDrive\Desktop\data call senter forms\data call senter forms\obj\Debug\net8.0-windows\data call senter forms.pdb
+C:\Users\ToT\OneDrive\Desktop\data call senter forms\data call senter forms\obj\Debug\net8.0-windows\data call senter forms.genruntimeconfig.cache
+C:\Users\ToT\OneDrive\Desktop\data call senter forms\data call senter forms\obj\Debug\net8.0-windows\ref\data call senter forms.dll
